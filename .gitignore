@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data files (parquet outputs)
+data/
+
+# Logs
+logs/
+
+# Config (contains DB credentials)
+config.ini
+
+# UV lock (optional: remove if you want to track it)
+# uv.lock
